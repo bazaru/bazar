@@ -3,23 +3,23 @@ div.anuncio{
 	border:1px solid #a1a1a1 !important;
 }
 
-.anuncio .bttotal{
+div.bttotal{
 	border-top-left-radius: 10px !important;
 	border-top-right-radius: 10px !important;
 }
-.anuncio .btleft{
+div.btleft{
 	border-top-left-radius: 10px !important;
 }
-.anuncio .btright{
+div.btright{
 	border-top-right-radius: 10px !important;
 }
-.anuncio div.bbtotal{
+div.bbtotal{
 	border-bottom-left-radius: 10px !important;
 	border-bottom-right-radius: 10px !important;
 }
-.anuncio .bbleft{
+div.bbleft{
 	border-bottom-left-radius: 10px !important;
 }
-.anuncio .bbright{
+div.bbright{
 	border-bottom-right-radius: 10px !important;
 }
