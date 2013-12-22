@@ -8,6 +8,9 @@ border-bottom: 1.2px solid #a1a1a1;
 h3.anuncio{
 	margin-bottom: 0;
 }
+h4.anuncio{
+	margin-top: 0;
+}
 div.anuncio{
 	border:1px solid #a1a1a1 !important;
 }
