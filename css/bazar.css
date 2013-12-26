@@ -39,7 +39,7 @@ div.bbright{
 .humano{
 position: absolute;
 left: 0;
-top: 0;
+top: 20;
 -webkit-transition: left 3s ease-out, top 3s ease-out;
 -moz-transition: left 3s ease-out, top 3s ease-out;
 -o-transition: left 3s ease-out, top 3s ease-out;
