@@ -1,0 +1,40 @@
+.moneda-ico{
+width: 14px !important;
+height: 15px !important;
+margin-top: -1px;
+margin-right: -4px;
+vertical-align: middle;
+background-image: url(https://raw.github.com/julillo/bazar/Pruebas/imagenes/moneda.png);
+background-repeat: no-repeat;
+background-position: 0 0;
+}
+.nes1-ico{
+width: 14px !important;
+height: 15px !important;
+margin-top: -1px;
+margin-right: -4px;
+vertical-align: middle;
+background-image: url(https://raw.github.com/julillo/bazar/Pruebas/imagenes/nes1.png);
+background-repeat: no-repeat;
+background-position: 0 0;
+}
+.nes2-ico{
+width: 14px !important;
+height: 15px !important;
+margin-top: -1px;
+margin-right: -4px;
+vertical-align: middle;
+background-image: url(https://raw.github.com/julillo/bazar/Pruebas/imagenes/nes2.png);
+background-repeat: no-repeat;
+background-position: 0 0;
+}
+.nes3-ico{
+width: 14px !important;
+height: 15px !important;
+margin-top: -1px;
+margin-right: -4px;
+vertical-align: middle;
+background-image: url(https://raw.github.com/julillo/bazar/Pruebas/imagenes/nes3.png);
+background-repeat: no-repeat;
+background-position: 0 0;
+}
