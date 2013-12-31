@@ -12,7 +12,7 @@
 }
 [class*=ico] {
 	padding:0 0 0 15px;
-	margin-bottom:0; 
+	margin-bottom:0 !important;
 	width: 16px;
 	height: 16px;
 	background-image: url(https://raw.github.com/julillo/bazar/Pruebas/imagenes/iconos.png);
