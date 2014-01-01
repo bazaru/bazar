@@ -1,0 +1,29 @@
+.button_cc a {
+	background: #63B52F;
+	color: #FFF;
+	text-decoration: none;
+	text-align: center;
+	width: 148px;
+	padding: 20px 0;
+	font: normal 32px 'Amatic SC', cursive;
+	display: block;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.button_cc {
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+.button_cc a:hover {
+	background: #000;
+	color: #FFF;
+}
+.section_cc a:hover {
+	text-decoration: none;
+}
