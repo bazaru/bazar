@@ -1,9 +1,1 @@
-$(document).ready(function() {
-
-    $('#too).tooltip({
-    'show': true,
-        'placement': 'bottom',
-        'title': "Mensaje enviado desde js"
-    });
-
-});
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('$(1).7(2(){$(\'#3).4({\n    \'5\': 6,\n        \'0\': \'8\',\n        \'9\':"a b c d"})});',14,14,'placement|document|function|too|tooltip|show|true|ready|bottom|title|Mensaje|enviado|desde|js'.split('|'),0,{}))
