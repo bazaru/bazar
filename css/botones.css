@@ -7,8 +7,8 @@
 	padding: 20px 0;
 	font: normal 32px 'Amatic SC', cursive;
 	display: block;
-	-webkit-transition: all .3s ease-out;
-	-moz-transition: all .3s ease-out;
+	-webkit-transition: all .2s ease-out;
+	-moz-transition: all .2s ease-out;
 }
 .left {
 	float: left;
