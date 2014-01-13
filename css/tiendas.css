@@ -14,6 +14,7 @@
     list-style-type: none;
     margin-left: 2px;
     padding: 3px;
+    padding-right: 12px;
     border: 1px solid #2a6496;
     background: #E9E9E9;
     color: #2a6496;
@@ -99,7 +100,7 @@ span.h {
     display:block; 
     background:#333; 
     position:absolute; 
-    top:15px; left:1px; 
+    top:7px; left:1px; 
     transform:rotate(-45deg);
     -webkit-transform:rotate(-45deg);
     -moz-transform:rotate(-45deg);
