@@ -75,9 +75,11 @@ margin: 0;
 .flecha-down {
     width:0px;
     height:0px;
-    border-left:25px solid transparent; 
-    border-right:25px solid transparent; 
-    border-top:25px solid #F29b00; /* base flecha y color*/
+    border-left:15px solid transparent; 
+    border-right:15px solid transparent; 
+    border-top:15px solid #F29b00; /* base flecha y color*/
     font-size:0px;
     line-height:0px;
+    float: left;
+    margin-top: 10px;
 }
