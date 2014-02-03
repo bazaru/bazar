@@ -1,7 +1,7 @@
 var wsclient = (function() {
 
     var ws = null;
-    var wsURI = 'ws://' + location.host  + '/websockets/chat';
+    var wsURI = 'ws://' + location.host  + '/chat';
 
     function connect(userName) {
 
