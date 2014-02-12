@@ -30,7 +30,7 @@ var disparos = [];
 //Definicion de funciones
 function cargarMedia(){
 	fondo = new Image();
-	fondo.src = '../imagenes/espacio.jpg'
+	fondo.src = 'https://rawgithub.com/bazaru/bazar/Pruebas/imagenes/espacio.jpg'
 	fondo.onload = function(){
 		var intervalo = window.setInterval(frameLoop, 1000/55);
 	}
