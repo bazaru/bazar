@@ -1,4 +1,3 @@
-
 //Objetos importantes de canvas
 var canvas = document.getElementById('principal');
 var ctx = canvas.getContext('2d');
@@ -31,7 +30,7 @@ var disparos = [];
 //Definicion de funciones
 function cargarMedia(){
 	fondo = new Image();
-	fondo.src = 'recursos/espacio.jpg'
+	fondo.src = '../imagenes/espacio.jpg'
 	fondo.onload = function(){
 		var intervalo = window.setInterval(frameLoop, 1000/55);
 	}
