@@ -92,10 +92,6 @@ min-height: 100px;
 width: 400px;
 border: 2px #567 solid;
 }
-img{
-	width: 400px;
-	height: 400px;
-}
 .descripcion{
 	position: absolute;
 	background: #000;
