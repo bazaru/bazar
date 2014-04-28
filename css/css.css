@@ -112,3 +112,7 @@ div.cont_cargar a:hover div.descripcion{
 #formLogin{
 	float:right;
 }
+#contenedor{
+    width: 1100px;
+    margin: 0 auto;
+}
