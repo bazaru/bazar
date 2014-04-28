@@ -109,4 +109,6 @@ div.cont_cargar a:hover div.descripcion{
 	transition:  left 0.3s ;
 
 }
-
+#formLogin{
+	float:right;
+}
