@@ -78,5 +78,39 @@ article#bt-menu{
 	border: 5px solid #DBDBD4;
 	/*box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);*/
 }
+.cont_cargar {
+position: relative;
+overflow: hidden;
+background-image: url(http://dev.hinterlandstudio.com/wp-content/themes/hinterland/images/loader_r.gif);
+background-size: 30px;
+background-position: center center;
+background-repeat: no-repeat;
+width: 100%;
+min-height: 100px;
+}
+.contenedor{
+width: 400px;
+border: 2px #567 solid;
+}
+img{
+	width: 400px;
+	height: 400px;
+}
+.descripcion{
+	position: absolute;
+	background: #000;
+	width: 100%;
+	height: 100%;
+	left: -105%;
+}
 
+div.cont_cargar a:hover div.descripcion{
+	left: 0;
+}
+
+.descripcion{
+	-webkit-transition:  left 0.3s;
+	transition:  left 0.3s ;
+
+}
 
