@@ -1,21 +1,21 @@
 body{
-	-moz-margin: 0;
-	-moz-padding: 0;
-	-moz-background-color: rgba(155, 200, 21, 0.90);
+	margin: 0;
+	padding: 0;
+	background-color: rgba(155, 200, 21, 0.90);
 }
 header{
 	/*background-color: #F1F1E9;*/
-	-moz-background-color: #F1F1E9;
+	background-color: #F1F1E9;
 	position: relative;
 	top:0;
 	height: 80px;
 }
 nav{
-	-moz-background-color: #F1F1E9;
-	-moz-box-shadow: 0 1px 0 #9BC815;
+	background-color: #F1F1E9;
+	box-shadow: 0 1px 0 #9BC815;
 	position: relative;
-	-moz-margin: 0;
-	-moz-padding-top: 10px;
+	margin: 0;
+	padding-top: 10px;
 	height: 80px;
 	z-index: 50;
 }
@@ -23,96 +23,96 @@ article{
 
 }
 label{
-	-moz-font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
 
 }
 /*-------------*/
 article.contenedor{
-	-moz-margin-top: 10px;
+	margin-top: 10px;
 }
 /*-------------*/
 .fleft{
-	-moz-float:left;
+	float:left;
 }
 .fright{
 	right: 0;
 }
 .flotante{
-	-moz-background-color: rgba(241,241,233,0.9);
+	background-color: rgba(241,241,233,0.9);
 	width: 100%;
 }
 .fixed{
 	position: fixed;
 }
 a.noline{
-	-moz-text-decoration: none;
+	text-decoration: none;
 }
 a.header{
-	-moz-color:#424242;
-	-moz-font: 250% sans-serif; 
-	-moz-margin-left: 10px;
+	color:#424242;
+	font: 250% sans-serif; 
+	margin-left: 10px;
 }
 a.iconH{
-	-moz-float: right;
-	-moz-color: #424242;
-	-moz-font: 350% sans-serif;
-	-moz-margin-right: 20px;
+	float: right;
+	color: #424242;
+	font: 350% sans-serif;
+	margin-right: 20px;
 }
 span.mensaje{
 	position: relative;
 	left: -10px;
-	-moz-margin: 0;
-	-moz-padding: 0;
+	margin: 0;
+	padding: 0;
 }
 article#bt-menu{
 	height: 100%;
 	width: 100%;
-	-moz-background-color: rgba(155, 200, 21, 0.90);
+	background-color: rgba(155, 200, 21, 0.90);
 }
 #productos{
 	width: 1100px;
-    	-moz-margin: 0 auto;
+    	margin: 0 auto;
 }
 #productos img{
-	-moz-margin: 20px;
-	-moz-border: 5px solid #DBDBD4;
+	margin: 20px;
+	border: 5px solid #DBDBD4;
 	/*box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);*/
 }
 .cont_cargar {
 position: relative;
 overflow: hidden;
--moz-background-image: url(http://dev.hinterlandstudio.com/wp-content/themes/hinterland/images/loader_r.gif);
--moz-background-size: 30px;
--moz-background-position: center center;
--moz-background-repeat: no-repeat;
--moz-width: 100%;
--moz-min-height: 100px;
+background-image: url(http://dev.hinterlandstudio.com/wp-content/themes/hinterland/images/loader_r.gif);
+background-size: 30px;
+background-position: center center;
+background-repeat: no-repeat;
+width: 100%;
+min-height: 100px;
 }
 .contenedor{
--moz-width: 400px;
--moz-border: 2px #567 solid;
+width: 400px;
+border: 2px #567 solid;
 }
 .descripcion{
 	position: absolute;
-	-moz-background: #000;
-	-moz-width: 100%;
+	background: #000;
+	width: 100%;
 	height: 100%;
-	-moz-left: -105%;
+	left: -105%;
 }
 
 div.cont_cargar a:hover div.descripcion{
-	-moz-left: 0;
+	left: 0;
 }
 
 .descripcion{
 	-webkit-transition:  left 0.3s;
-	-moz-transition:  left 0.3s ;
+	transition:  left 0.3s ;
 
 }
 #formLogin{
-	-moz-float:right;
+	float:right;
 }
 #contenedor{
-    -moz-width: 1100px;
-    -moz-margin: 0 auto;
+    width: 1100px;
+    margin: 0 auto;
 }
