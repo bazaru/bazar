@@ -105,6 +105,7 @@ div.cont_cargar a:hover div.descripcion{
 }
 
 .descripcion{
+	-moz-transition:  left 0.3s;
 	-webkit-transition:  left 0.3s;
 	transition:  left 0.3s ;
 
