@@ -1,20 +1,19 @@
-/* Just click to select the code */
- 
 @charset "UTF-8";
- 
+
 @font-face {
-  font-family: "menu";
-  src:url("fonts/menu.eot");
-  src:url("fonts/menu.eot?#iefix") format("embedded-opentype"),
-    url("fonts/menu.ttf") format("truetype"),
-    url("fonts/menu.svg#menu") format("svg"),
-    url("fonts/menu.woff") format("woff");
+  font-family: "untitled-font-1";
+  src:url("fonts/untitled-font-1.eot");
+  src:url("fonts/untitled-font-1.eot?#iefix") format("embedded-opentype"),
+    url("fonts/untitled-font-1.woff") format("woff"),
+    url("fonts/untitled-font-1.ttf") format("truetype"),
+    url("fonts/untitled-font-1.svg#untitled-font-1") format("svg");
   font-weight: normal;
   font-style: normal;
+
 }
- 
+
 [data-icon]:before {
-  font-family: "menu" !important;
+  font-family: "untitled-font-1" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: normal !important;
@@ -25,10 +24,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
- 
+
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: "menu" !important;
+  font-family: "untitled-font-1" !important;
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
@@ -37,28 +36,29 @@
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-} 
- 
-.icon-ic-donde:before {
-   content: "d"; 
-} 
- 
-.icon-ic-compra:before {
-   content: "m"; 
-} 
- 
-.icon-ic-perfil:before {
-   content: "p"; 
-} 
- 
-.icon-ic-login:before {
-   content: "b"; 
-} 
- 
-.icon-ic-location:before {
-   content: "c"; 
-} 
- 
-.icon-ic-logout:before {
-   content: "e"; 
+}
+
+.icon-m-perfil:before {
+  content: "p";
+}
+.icon-m-mapa:before {
+  content: "m";
+}
+.icon-m-estoy:before {
+  content: "e";
+}
+.icon-i-bloquear:before {
+  content: "b";
+}
+.icon-i-desbloquear:before {
+  content: "d";
+}
+.icon-m-vender:before {
+  content: "v";
+}
+.icon-m-comprar:before {
+  content: "c";
+}
+.icon-m-casa:before {
+  content: "h";
 }
