@@ -8,7 +8,7 @@ header{
 	background-color: #F1F1E9;
 	position: relative;
 	top:0;
-	height: 80px;
+	height: 100px;
 }
 nav{
 	background-color: #F1F1E9;
@@ -16,15 +16,8 @@ nav{
 	position: relative;
 	margin: 0;
 	padding-top: 10px;
-	height: 80px;
+	/*height: 80px;*/
 	z-index: 50;
-	-moz-background-color: #F1F1E9;
-	-moz-box-shadow: 0 1px 0 #9BC815;
-	-moz-position: relative;
-	-moz-margin: 0;
-	-moz-padding-top: 10px;
-	-moz-height: 80px;
-	-moz-z-index: 50;
 }
 article{
 
