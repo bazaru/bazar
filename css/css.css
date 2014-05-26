@@ -114,6 +114,6 @@ div.cont_cargar a:hover div.descripcion{
 	float:right;
 }
 #contenedor{
-    width: 1100px;
-    margin: 0 auto;
+	margin: 0 auto;
+    width: 80%;
 }
