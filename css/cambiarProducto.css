@@ -19,7 +19,7 @@
 	height: 70%;
 	width: 70%;
 }
-.crearProducto input,.crearProducto textarea{
+.crearProducto input{
 	display: block;
 	margin: 0 auto;
 }
