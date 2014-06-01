@@ -95,6 +95,7 @@ article#bt-menu{
  .sliders{
  	position: relative;
  	text-align:left !important;
+ 	margin: 0 auto;
  }
  .sliders:hover .frente{
  	max-height: 0px;
