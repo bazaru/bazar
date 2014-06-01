@@ -67,3 +67,31 @@ article#bt-menu{
 	border: 5px solid #DBDBD4;
 	/*box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);*/
 }
+
+
+.slider {
+ overflow-y: hidden;
+ max-height: 100px;
+ height: 50px;
+ width: 100%;
+
+ transition-property: all;
+ transition-duration: .5s;
+ background: rgb(211,211,211);
+ }
+
+ .closed {
+ max-height: 0;
+ }
+
+ .frente{
+ 	position:absolute;
+ }
+
+ .detras{
+ 	background: rgb(182,152,152);
+ }
+
+ .open{
+ 	max-height: 50px;
+ }
