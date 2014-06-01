@@ -91,6 +91,9 @@ article#bt-menu{
  .detras{
  	background: rgb(182,152,152);
  }
+ .slider{
+ 	text-align:left;
+ }
  .sliders:hover .frente{
  	max-height: 0px;
  }
