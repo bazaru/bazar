@@ -82,10 +82,10 @@ article#bt-menu{
 .cont_cargar {
 position: relative;
 overflow: hidden;
-background-image: url(http://dev.hinterlandstudio.com/wp-content/themes/hinterland/images/loader_r.gif);
+/*background-image: url(http://dev.hinterlandstudio.com/wp-content/themes/hinterland/images/loader_r.gif);
 background-size: 30px;
 background-position: center center;
-background-repeat: no-repeat;
+background-repeat: no-repeat;*/
 width: 100%;
 min-height: 100px;
 }
