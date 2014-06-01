@@ -78,28 +78,21 @@ article#bt-menu{
  transition-property: all;
  transition-duration: .5s;
  }
-
- .closed {
- max-height: 0;
- }
-
  .frente{
  	top:0;
- 	position:absolute;
  	max-height: 200px;
  }
 
  .detras{
  	background: rgb(182,152,152);
+ 	max-height: 0px;
+ 	position:absolute;
  }
  .sliders{
  	position: relative;
- 	text-align:left !important;
+ 	text-align:left;
  	margin: 0 auto;
  }
  .sliders:hover .frente{
- 	max-height: 0px;
- }
- .open{
  	max-height: 200px;
  }
