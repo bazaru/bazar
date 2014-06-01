@@ -26,11 +26,6 @@ label{
 	font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
 
 }
-/*-------------*/
-article.contenedor{
-	margin-top: 10px;
-}
-/*-------------*/
 .fleft{
 	float:left;
 }
@@ -44,14 +39,7 @@ article.contenedor{
 .fixed{
 	position: fixed;
 }
-a.noline{
-	text-decoration: none;
-}
-a.header{
-	color:#424242;
-	font: 250% sans-serif; 
-	margin-left: 10px;
-}
+
 a.iconH{
 	float: right;
 	color: #424242;
@@ -71,7 +59,7 @@ article#bt-menu{
 	background-color: rgba(155, 200, 21, 0.90);
 }
 #productos{
-	width: 1100px;
+	width: 80%;
     	margin: 0 auto;
 }
 #productos img{
