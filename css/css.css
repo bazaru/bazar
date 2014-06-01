@@ -92,7 +92,7 @@ article#bt-menu{
  	background: rgb(182,152,152);
  }
  .sliders{
- 	text-align:left;
+ 	text-align:left !important;
  }
  .sliders:hover .frente{
  	max-height: 0px;
