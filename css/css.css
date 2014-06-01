@@ -77,7 +77,6 @@ article#bt-menu{
 
  transition-property: all;
  transition-duration: .5s;
- background: rgb(211,211,211);
  }
 
  .closed {
