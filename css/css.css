@@ -73,7 +73,7 @@ article#bt-menu{
  overflow-y: hidden;
  max-height: 200px;
  height: 200px;
- width: 100%;
+ width: 200px;
 
  transition-property: all;
  transition-duration: .5s;
