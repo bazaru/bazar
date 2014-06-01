@@ -84,6 +84,7 @@ article#bt-menu{
  }
 
  .frente{
+ 	top:0;
  	position:absolute;
  	max-height: 200px;
  }
@@ -92,6 +93,7 @@ article#bt-menu{
  	background: rgb(182,152,152);
  }
  .sliders{
+ 	position: relative;
  	text-align:left !important;
  }
  .sliders:hover .frente{
