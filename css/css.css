@@ -79,6 +79,10 @@ article#bt-menu{
 	border: 5px solid #DBDBD4;
 	/*box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);*/
 }
+.cont_imagen{
+width: 200px;
+height: 200px;
+}
 .cont_cargar {
 position: relative;
 overflow: hidden;
