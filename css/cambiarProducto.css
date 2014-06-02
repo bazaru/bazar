@@ -20,7 +20,7 @@
 	height: 70%;
 	width: 70%;
 }
-.crearProducto input{
+.crearProducto input,.crearProducto select{
 	display: block;
 	margin: 0 auto;
 }
@@ -44,89 +44,4 @@
 .crearProducto .btnSubmit{
 	margin-top: 0.5em;
 	padding: 0.5em;
-}
-
-/*Limpiesa*/
-/*body,header{
-	margin: 0;
-	top:0;
-	left: 0;
-}
-html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
-	margin:0;
-	padding:0;
-}
-a {
-	text-decoration: none;
-	outline: 0;
-}
-button { 
-	border:0;
-}
-/*Header*/
-/*header{
-	background-color: rgba(241,241,233,0.9);
-}
-nav{
-	padding-top: 0.5em;
-	padding-bottom: 0.5em;
-	box-shadow: 0 1px 0 #9BC815;
-}
-header form{
-	float: right;
-}
-header a,header button{
-	color: #424242;
-	text-align: center;
-}
-header a.btn:hover,header button.btn:hover{
-	background-color: #A3A3A3;
-}
-header a img,header a.btnHeader{
-	height: 4.2em;
-	width: 4.2em;
-	margin-left: 0.2em;
-	margin-right: 0.2em;
-}
-header a.HLogo{
-	margin-left: 0.5em;
-}
-header a.btnHeader{
-
-	float: right;
-}
-header div.btnLR{
-	float: right;
-	margin-left: 0.2em;
-	margin-right: 0.5em;
-	width: 5em;
-	display: inline;
-}
-header div.inpLR{
-	float: right;
-	margin-left: 0.2em;
-	margin-right: 0.5em;
-	width: 13em;
-	display: inline;
-}
-header .form{
-	width: 13em;
-	float: right;
-	height: 2em;
-}
-header div button.btnHLogin{
-	background-color: rgba(241,241,233,0.9);
-	float: right;
-	font-size: 1em;
-	height: 2.6em;
-	border-bottom: solid #929090 0.1em; 
-	width: 5em;
-
-}
-header div a.btnHRegistrar{
-
-	float: right;
-	font-size: 1em;
-	height: 1.5em;
-	width: 5em;
 }
