@@ -62,6 +62,12 @@ body{
 .subgrid-4{
 	width: 25%;
 }
+.grid-4s{
+	width: 180px;
+}
+.grid-4{
+	width: 200px;
+}
 .cf:after{
 	clear: both;
 }
