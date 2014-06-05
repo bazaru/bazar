@@ -1,0 +1,80 @@
+
+.idproducto .box-content{
+	margin: 0.5em auto;
+	border: 1px solid #ddd;
+	background-color: #fff;
+}
+.idproducto .box-clear{
+	padding-top: 0.5em;
+	margin: 0 auto;
+}
+.idproducto .box-imagen{
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.idproducto .box-imagen img{
+	width: 100%;
+
+}
+.idproducto .box-informacion{
+	background: none repeat scroll 0% 0% #FFF;
+	text-align: center;
+	padding: 2.5px;
+}
+.idproducto .box-informacion .titulo{
+	padding: 0.5em;
+}
+.idproducto .box-informacion .precio{
+	color: rgba(248, 39, 39, 1);
+}
+.idproducto .inf-imagen{
+	background-color: transparent;
+	position: absolute;
+	color: transparent;
+	top: 0;
+	left: 0;
+	max-height: 100%;
+	width: 100%;
+	height: 100%;
+
+}
+.idproducto .inf-ad{
+	text-align: center;
+	font-size: 80%;
+	border-top: 0;
+
+ }
+.idproducto .box-imagen .descripcion{
+	width: 98%;
+	height: 88%;
+	padding: 1%;
+}
+.idproducto .box-descripcion{
+	padding: 0.5em;
+	font-size: 90%;
+}
+.idproducto .box-content:hover .inf-imagen{
+	transition: left 0.35s, background-color 0.35s, color 0.35s;
+	background-color: rgba(66, 66, 66, 0.75);
+	color: #F3F1F1;
+}
+.idproducto .box-content:hover .inf-imagen .inf-ad{
+	/*transition: border-top 0.35s;*/
+	border-top: 1px solid #DDD;
+}
+.idproducto .box-content .inf-imagen .inf-ad{
+	/*transition: border-top 0.35s;*/
+	border-top: 0;
+}
+
+.idproducto .box-content .inf-imagen{
+	transition: left 0.35s, background-color 0.35s, color 0.35s;
+}
+
+.idproducto  a{text-decoration:none;transition: color 0.2s;}
+.idproducto a:link {color:#424242;} 
+.idproducto a:visited {color:#424242;}
+.idproducto a:hover {color:#46AF46;} 
+.idproducto a:active {color:#424242;}

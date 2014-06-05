@@ -1,0 +1,71 @@
+@media only screen and (max-width: 1023px) {
+  .box-general{
+	margin: 0 auto;
+    width: 90%;
+    background-color: #fff;
+	}
+	.Sgrid-publicacion{
+		width: 33%;
+	}
+
+}
+@media only screen and (min-width: 1024px) and (max-width: 1360px){
+  .box-general{
+	margin: 0 auto;
+    width: 80%;
+    background-color: #fff;
+	}
+	.Sgrid-publicacion{
+		width: 25%;
+	}
+
+}
+
+@media only screen and (min-width: 1361px){
+  .box-general{
+	margin: 0 auto;
+    width: 80%;
+    background-color: #fff;
+	}
+	.Sgrid-publicacion{
+		width: 20%;
+	}
+
+}
+/*--------------LIMPIESA---------------*/
+html, body, div, span,iframe, h1, h2, h3, h4, h5, h6, p, a, abbr, acronym, address, big, code, strong, ol, ul, li, fieldset, form, label, legend{
+    border: 0px none;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: baseline;
+    font-size: 100%;
+    font-family: Open sans,'Source Sans Pro',Arial,Helvetica,Geneva,sans-serif;
+    font-weight: normal;
+    outline: 0px none;
+}
+/*--------------------------------------*/
+body{
+	background-color: #eee;
+}
+.fl{
+	float: left;
+}
+.subgrid-1{
+	width: 100%;
+}
+.subgrid-2{
+	width: 74%;
+}
+.subgrid-3{
+	width: 50%;
+}
+.subgrid-4{
+	width: 25%;
+}
+.cf:after{
+	clear: both;
+}
+.cf:before, .cf:after {
+    content: " ";
+    display: table;
+}
