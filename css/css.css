@@ -55,7 +55,7 @@ span.mensaje{
 article#bt-menu{
 	height: 100%;
 	width: 100%;
-	background-color: rgba(155, 200, 21, 0.90);
+	/*background-color: rgba(155, 200, 21, 0.90);*/
 }
 #productos{
 	width: 80%;
