@@ -1,6 +1,7 @@
 @media only screen and (max-width: 1023px) {
   .box-general{
 	margin: 0 auto;
+	margin-top: 1em;
     width: 90%;
     background-color: #fff;
 	}
@@ -12,6 +13,7 @@
 @media only screen and (min-width: 1024px) and (max-width: 1360px){
   .box-general{
 	margin: 0 auto;
+	margin-top: 1em;
     width: 80%;
     background-color: #fff;
 	}
@@ -24,6 +26,7 @@
 @media only screen and (min-width: 1361px){
   .box-general{
 	margin: 0 auto;
+	margin-top: 1em;
     width: 80%;
     background-color: #fff;
 	}
@@ -45,6 +48,8 @@ html, body, div, span,iframe, h1, h2, h3, h4, h5, h6, p, a, abbr, acronym, addre
 }
 /*--------------------------------------*/
 body{
+	margin: 0px;
+	padding: 0px;
 	background-color: #eee;
 }
 .fl{
