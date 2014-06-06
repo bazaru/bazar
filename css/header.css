@@ -49,36 +49,42 @@ header a.btnHeader{
 }
 header div.btnLR{
 	float: right;
+	/*
 	margin-left: 0.2em;
 	margin-right: 0.5em;
 	width: 5em;
-	display: inline;
+	display: inline;*/
 }
 header div.inpLR{
 	float: right;
+	margin-top: 0.4em;
+	/*
 	margin-left: 0.2em;
 	margin-right: 0.5em;
 	width: 13em;
-	display: inline;
+	display: inline;*/
 }
 header .form{
 	width: 13em;
-	float: right;
+	/*float: right;*/
 	height: 2em;
 }
 header div button.btnHLogin{
 	background-color: rgba(255,255,255,0);
 	float: right;
 	font-size: 1em;
-	height: 2.6em;
-	border-bottom: solid #929090 0.1em; 
-	width: 5em;
+	height: 2.5em;
+	
+/*	border-bottom: solid #929090 0.1em; */
+/*	width: 5em;*/
 
 }
 header div a.btnHRegistrar{
 
 	float: right;
 	font-size: 1em;
-	height: 1.5em;
+	height: 2.5em;
 	width: 5em;
+	padding-top: 0.6em;
+
 }
