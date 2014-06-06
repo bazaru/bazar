@@ -11,10 +11,10 @@ header{
 }
 nav{
 	background-color: #F1F1E9;
-	box-shadow: 0 1px 0 #9BC815;
+	box-shadow: 0 1px 2px #9BC815;
 	position: relative;
 	margin: 0;
-	padding-top: 10px;
+	/*padding-top: 10px;*/
 	/*height: 80px;*/
 	z-index: 50;
 }
@@ -32,7 +32,7 @@ label{
 	right: 0;
 }
 .flotante{
-	background-color: rgba(241,241,233,0.9);
+	background-color: #fff; /*rgba(241,241,233,0.9);*/
 	width: 100%;
 }
 .fixed{
