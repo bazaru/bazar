@@ -71,7 +71,7 @@ header .form{
 }
 header div button.btnHLogin{
 	background-color: rgba(255,255,255,0);
-	float: right;
+	float: left;
 	font-size: 1em;
 	height: 2.5em;
 	
@@ -83,7 +83,7 @@ header div a.btnHRegistrar{
 
 	float: right;
 	font-size: 1em;
-	height: 2.5em;
+	height: 2em;
 	width: 5em;
 	padding-top: 0.6em;
 
