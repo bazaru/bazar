@@ -67,7 +67,7 @@ header .form{
 	height: 2em;
 }
 header div button.btnHLogin{
-	background-color: rgba(241,241,233,0.0);
+	background-color: #fff;
 	float: right;
 	font-size: 1em;
 	height: 2.6em;
