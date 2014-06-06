@@ -30,13 +30,13 @@
 @media only screen and (max-width: 1023px) {
   .crearProducto .infProducto{
 	width: 100%;
-	height: 400px;
+
 	}
 }
 @media only screen and (min-width: 1024px){
   .crearProducto .infProducto{
 	width: 50%;
-	height: 400px;
+
 	float: left;
 	}
 }
