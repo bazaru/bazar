@@ -63,6 +63,9 @@ body{
 .fl{
 	float: left;
 }
+.fr{
+	float: right;
+}
 .subgrid-1{
 	width: 100%;
 }
