@@ -57,15 +57,15 @@ float: right;
 }
 header .form{
 	width: 10em;
-	height: 2em;
+	height: 2.2em;
 }
 header .busqueda{
-	height: 2em;
+	height: 2.5em;
 	width: 90%
 }
 header div button.btnHLogin{
 background-color: rgba(255,255,255,0);
-height: 2em;
+height: 2.5em;
 
 font-size: 1em;
 }
@@ -74,6 +74,6 @@ font-size: 1em;
 height: 1.6em;
 /*display: table-cell;
 vertical-align: middle;*/
-padding-top: 0.4em;*/
+padding-top: 0.52em;*/
 
 }
