@@ -38,6 +38,128 @@
 	}
 
 }
+/*----------------------------------*/
+
+
+@media only screen and (max-width: 480px) {
+	.mensaje{
+		display: none;
+	}
+	header .form{
+	width: 7em !important;
+	}
+	.inpLR{
+		display: none;
+	}
+
+	.btnLR{
+		display: none;
+	}
+	.headgrid-1{
+		width: 15%;
+	}
+	.headgrid-2{
+		width: 70%;
+	}
+	.headgrid-3{
+		width: 15%;
+	}
+}
+@media only screen and (min-width: 481px) and (max-width: 680px) {
+	.mensaje{
+		display: none;
+	}
+	header .form{
+	width: 7em !important;
+	}
+	.inpLR{
+		display: none;
+	}
+
+	.headgrid-1{
+		width: 10%;
+	}
+	.headgrid-2{
+		width: 45%;
+	}
+	.headgrid-3{
+		width: 40%;
+	}
+	
+}
+@media only screen and (min-width: 681px) and (max-width: 799px) {
+	.mensaje{
+		display: none;
+	}
+	.headgrid-1{
+		width: 9%;
+	}
+	.headgrid-2{
+		width: 30%;
+	}
+	.headgrid-3{
+		width: 61%;
+	}
+	header .form{
+	width: 7em !important;
+	}
+
+}
+@media only screen and (min-width: 800px) and (max-width: 979px){
+	.headgrid-1{
+		width: 13%;
+	}
+	.headgrid-2{
+		width: 30%;
+	}
+	.headgrid-3{
+		width: 55%;
+	}
+	header .form{
+	width: 8em !important;
+	}
+
+}
+@media only screen and (min-width: 980px) and (max-width: 1023px) {
+	.headgrid-1{
+		width: 13%;
+	}
+	.headgrid-2{
+		width: 30%;
+	}
+	.headgrid-3{
+		width: 55%;
+	}
+
+}
+@media only screen and (min-width: 1024px) and (max-width: 1360px){
+	.headgrid-1{
+		width: 12.5%;
+	}
+	.headgrid-2{
+		width: 30%;
+	}
+	.headgrid-3{
+		width: 54.5%;
+	}
+}
+
+@media only screen and (min-width: 1361px){
+  	.headgrid-1{
+		width: 12.5%;
+
+	}
+	.headgrid-2{
+		width: 37.5%;
+
+	}
+	.headgrid-3{
+		width: 50%;
+
+	}
+
+}
+/*----------------------------------*/
 /*--------------LIMPIESA---------------*/
 html, body, div, span,iframe, h1, h2, h3, h4, h5, h6, p, a, abbr, acronym, address, big, code, strong, ol, ul, li, fieldset, form, label, legend{
     border: 0px none;
@@ -48,6 +170,10 @@ html, body, div, span,iframe, h1, h2, h3, h4, h5, h6, p, a, abbr, acronym, addre
     font-family: Open sans,'Source Sans Pro',Arial,Helvetica,Geneva,sans-serif;
     font-weight: normal;
     outline: 0px none;
+}
+a {
+text-decoration: none;
+outline: 0;
 }
 /*--------------------------------------*/
 body{
@@ -83,6 +209,15 @@ body{
 }
 .grid-4{
 	width: 200px;
+}
+.headgrid-1{
+	height: 2.5em;
+}
+.headgrid-2{
+	height: 2.5em;
+}
+.headgrid-3{
+	height: 2.5em;
 }
 .cf:after{
 	clear: both;
