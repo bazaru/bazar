@@ -192,6 +192,9 @@ body{
 .fr{
 	float: right;
 }
+.mc{
+	margin: 0 auto;
+}
 .subgrid-1{
 	width: 100%;
 }
