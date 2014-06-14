@@ -188,6 +188,7 @@ body{
 }
 .bgT{
 	background-color: transparent;
+	border: transparent;
 }
 .fl{
 	float: left;
