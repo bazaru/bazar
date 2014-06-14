@@ -3,8 +3,6 @@
 		margin: 0 auto;
 		margin-top: 1em;
 	    	width: 90%;
-	    	background-color: #fff;
-	    	border: 1px solid #ddd;
 	}
 	.Sgrid-publicacion{
 		width: 33%;
@@ -16,8 +14,6 @@
 		margin: 0 auto;
 		margin-top: 1em;
 	    	width: 80%;
-	    	background-color: #fff;
-	    	border: 1px solid #ddd;
 	}
 	.Sgrid-publicacion{
 		width: 25%;
@@ -30,8 +26,6 @@
 		margin: 0 auto;
 		margin-top: 1em;
 		width: 80%;
-		background-color: #fff;
-		border: 1px solid #ddd;
 	}
 	.Sgrid-publicacion{
 		width: 20%;
@@ -39,6 +33,7 @@
 
 }
 /*----------------------------------*/
+
 
 
 @media only screen and (max-width: 480px) {
@@ -181,10 +176,18 @@ body{
 	padding: 0px;
 	background-color: #eee;
 }
+.box-general{
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
 .box-header{
 	margin: 0 auto;
 	width: 98%;
 	background-color: #fff;
+}
+.bgT{
+	background-color: transparent;
 }
 .fl{
 	float: left;
