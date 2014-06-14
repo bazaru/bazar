@@ -192,6 +192,9 @@ body{
 .fr{
 	float: right;
 }
+.dn{
+	display:none;
+}
 .mc{
 	margin: 0 auto;
 }
