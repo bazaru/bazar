@@ -178,7 +178,6 @@ body{
 }
 .box-general{
 	background-color: #fff;
-	border: 1px solid #ddd;
 	border-radius: 3px;
 }
 .box-header{
@@ -188,7 +187,6 @@ body{
 }
 .bgT{
 	background-color: transparent;
-	border: transparent;
 }
 .fl{
 	float: left;
