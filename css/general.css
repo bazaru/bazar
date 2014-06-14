@@ -195,6 +195,12 @@ body{
 .mc{
 	margin: 0 auto;
 }
+.pr{
+	position: relative;
+}
+.pa{
+	position: absolute;
+}
 .subgrid-1{
 	width: 100%;
 }
