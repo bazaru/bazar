@@ -1,0 +1,33 @@
+label.tab{
+	text-align: center;
+	color: #f2f2f2;
+	display: inline-block;
+	background: none repeat scroll 0% 0% #424242;
+	cursor: pointer;
+	height: 3em;
+	line-height: 3em;
+	width: 15% ;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	
+}
+.box-content-tabs .tabContent-perfil ,.box-content-tabs .tabContent-producto ,.box-content-tabs .tabContent-estudio  {
+	z-index: 0;
+	opacity: 0;
+	display: none;
+}
+
+input.tab-selector-perfil:checked ~ .box-content-tabs .tabContent-perfil,
+input.tab-selector-producto:checked ~ .box-content-tabs .tabContent-producto,
+input.tab-selector-estudio:checked ~ .box-content-tabs .tabContent-estudio{
+	background-color: #fff;
+	border-radius: 3px;
+	border-top-left-radius: 0px;
+	border-top:4px solid #9BC815;
+    z-index: 100;
+    display: block;
+    opacity: 1;
+}
+.tab-selector-perfil:checked + label, .tab-selector-producto:checked + label, .tab-selector-estudio:checked + label{
+    background: none repeat scroll 0% 0% #9BC815;
+}
