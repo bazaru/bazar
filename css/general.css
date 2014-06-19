@@ -221,6 +221,9 @@ body{
 	-webkit-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 }
+.div-3{
+	width: 33.3%;
+}
 .subgrid-1{
 	width: 100%;
 }
@@ -236,7 +239,6 @@ body{
 .subgrid-5{
 	width: 12.5%;
 }
-
 .grid-4s{
 	width: 180px;
 }
