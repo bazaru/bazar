@@ -206,6 +206,14 @@ body{
 .pa{
 	position: absolute;
 }
+.imgCH {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0px auto;
+    display: block;
+}
 .subgrid-1{
 	width: 100%;
 }
