@@ -16,12 +16,12 @@
 	background-color: #424242;
 }
 .idproducto .box-imagen img{
-	width: auto;
-	height: auto;
 	max-width: 100%;
 	max-height: 100%;
-	margin: 0px auto;
-	display: block;
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
 
 }
 .idproducto .box-informacion{
