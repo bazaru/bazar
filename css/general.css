@@ -243,6 +243,9 @@ body{
 .pa{
 	position: absolute;
 }
+.dib{
+	display:inline-block;
+}
 .imgCH {
   /*  width: auto;
     height: auto;
