@@ -1,0 +1,35 @@
+.box-overlay{
+	position:absolute;
+	top:0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 9000;
+	background-color: rgba(66, 66, 66, 0.5);
+	min-width: 200px;
+}
+.content-overlay input,.content-overlay button,.content-overlay select,.content-overlay  textarea{
+	display: block;
+}
+.content-overlay{
+	display:inline-block;
+	background-color: #FFF;
+	padding-left:0.7em;
+	padding-top: 0.5em;
+	padding-right: 1em;
+	padding-bottom:1.5em; 
+	border-radius: 3px;
+}
+.content-overlay{
+	max-width: 100%;
+	max-height: 100%;
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+.titulo{
+	border-bottom: 2px solid #9BC815;
+	font-size: 1.5em;
+}
