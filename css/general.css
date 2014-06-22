@@ -23,7 +23,7 @@
 		width: 15%;
 	}
 	
-		.box-general{
+	.box-general{
 		margin: 0 auto;
 		margin-top: 1em;
 	    	width: 90%;
@@ -79,6 +79,9 @@
 	.headgrid-3{
 		width: 61%;
 	}
+	.btnLR{
+		display: none;
+	}
 	header .form{
 	width: 7em !important;
 	}
@@ -105,6 +108,9 @@
 	.headgrid-3{
 		width: 55%;
 	}
+	.btnLR{
+		display: none;
+	}
 	header .form{
 	width: 8em !important;
 	}
@@ -130,7 +136,9 @@
 	.headgrid-3{
 		width: 55%;
 	}
-	
+	.btnLR{
+		display: none;
+	}
 	.box-general{
 		margin: 0 auto;
 		margin-top: 1em;
@@ -154,7 +162,9 @@
 		width: 54.5%;
 	}
 	
-	
+	.btnLR{
+		display: none;
+	}
 	.box-general{
 		margin: 0 auto;
 		margin-top: 1em;
@@ -180,7 +190,9 @@
 
 	}
 	
-	
+	.btnLR{
+		display: none;
+	}
 	.box-general{
 		margin: 0 auto;
 		margin-top: 1em;
