@@ -29,6 +29,13 @@ a.iconH{
 	font: 2.1em sans-serif;
 	margin-right: 20px;
 }
+a.iconM{
+	float: right;
+	color: #424242;
+	font: 1.2em sans-serif;
+	margin-right: 0.5em;
+	margin-left:0.5em;
+}
 span.mensaje{
 	position: relative;
 	font-size: 1.5em;
