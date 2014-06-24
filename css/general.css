@@ -232,6 +232,10 @@ body{
 	width: 98%;
 	background-color: #fff;
 }
+.btn:hover{
+	background-color: #424242 !important;
+	color: #FFF !important;
+}
 .bgT{
 	background-color: transparent;
 }
