@@ -244,6 +244,12 @@ body{
 .dn{
 	display:none;
 }
+.db{
+	display:block;
+}
+.dib{
+	display:inline-block;
+}
 .mc{
 	margin: 0 auto;
 }
@@ -252,9 +258,6 @@ body{
 }
 .pa{
 	position: absolute;
-}
-.dib{
-	display:inline-block;
 }
 .imgCH {
     	max-width: 100%;
