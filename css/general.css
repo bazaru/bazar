@@ -255,6 +255,9 @@ body{
 	background-color: #424242 !important;
 	color: #FFF !important;
 }
+.pding{
+	padding: 0.5em 1em 1.5em 0.7em;
+}
 .bgT{
 	background-color: transparent !important;
 }
