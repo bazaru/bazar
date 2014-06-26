@@ -285,6 +285,9 @@ body{
 .pa{
 	position: absolute !important;
 }
+.cp{
+	cursor: pointer;
+}
 .min-w{
 	min-width: 200px;
 }
