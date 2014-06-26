@@ -218,6 +218,15 @@ text-decoration: none;
 outline: 0;
 }
 /*--------------------------------------*/
+.verde{
+	background-color: #46AF46;
+}
+.rojo{
+	background-color: #C73C3C;
+}
+.oscuro{
+	background-color: #424242;
+}
 body{
 	margin: 0px;
 	padding: 0px;
