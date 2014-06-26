@@ -242,6 +242,7 @@ body{
 	background-color: #eee;
 }
 .box-general{
+	padding: 0.5em 1em 1.5em 0.7em;
 	background-color: #fff;
 	border-radius: 3px;
 }
