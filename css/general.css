@@ -218,14 +218,23 @@ text-decoration: none;
 outline: 0;
 }
 /*--------------------------------------*/
-.verde{
+.bg-verde{
 	background-color: #46AF46;
 }
-.rojo{
+.bg-rojo{
 	background-color: #C73C3C;
 }
-.oscuro{
+.bg-oscuro{
 	background-color: #424242;
+}
+.t-verde{
+	color: #46AF46;
+}
+.t-rojo{
+	color: #C73C3C;
+}
+.t-oscuro{
+	color: #424242;
 }
 body{
 	margin: 0px;
