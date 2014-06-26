@@ -227,6 +227,15 @@ outline: 0;
 .bg-oscuro{
 	background-color: #424242;
 }
+.bg-eee{
+	background-color: #eee;
+}
+.bg-ddd{
+	background-color: #ddd;
+}
+.bg-fff{
+	background-color: #fff;
+}
 .t-verde{
 	color: #46AF46;
 }
