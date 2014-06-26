@@ -291,6 +291,9 @@ body{
 .subgrid-5{
 	width: 12.5%;
 }
+.tac{
+	text-align: center;
+}
 .frm{
 	height: 1.5em;
 	margin-top: 0.2em !important;
