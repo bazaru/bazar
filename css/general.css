@@ -291,6 +291,27 @@ body{
 .subgrid-5{
 	width: 12.5%;
 }
+.frm{
+	height: 1.5em;
+	margin-top: 0.2em !important;
+}
+
+.hx-3{
+	font-size: 2.5em;
+	font-family: "museo-sans",sans-serif;
+	color: #424242;
+}
+.hx-2{
+	font-size: 2em;
+	font-family: "museo-sans",sans-serif;
+	color: #424242;
+}
+.hx-1{
+	font-size: 1.5em;
+	font-family: "museo-sans",sans-serif;
+	color: #424242;
+}
+
 .grid-4s{
 	width: 180px;
 }
@@ -315,4 +336,19 @@ body{
 .cf:before, .cf:after {
     content: " ";
     display: table;
+}
+
+/*--Register--*/
+.content-register{
+	background-color: #EEE;
+	padding-left:0.7em;
+	padding-top: 0.5em;
+	padding-right: 1em;
+	padding-bottom:1.5em; 
+	border-radius: 3px;
+	margin-top: 0.5em;
+	margin-bottom:1.5em;
+}
+.box-register{
+	text-align: center;
 }
