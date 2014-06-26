@@ -281,6 +281,9 @@ body{
 .pa{
 	position: absolute !important;
 }
+.min-w{
+	min-width: 200px;
+}
 .imgCH {
     	max-width: 100%;
 	max-height: 100%;
