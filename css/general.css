@@ -245,6 +245,12 @@ outline: 0;
 .t-oscuro{
 	color: #424242;
 }
+.br{
+	border-radius: 3px;
+}
+.bb{
+	border-bottom: solid 1px;
+}
 body{
 	margin: 0px;
 	padding: 0px;
