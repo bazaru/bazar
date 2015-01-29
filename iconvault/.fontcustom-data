@@ -1,0 +1,23 @@
+{
+  "fonts": [
+    "iconvault_bc0a1b91177a639f9dcea353cb33444e.ttf",
+    "iconvault_bc0a1b91177a639f9dcea353cb33444e.woff",
+    "iconvault_bc0a1b91177a639f9dcea353cb33444e.eot",
+    "iconvault_bc0a1b91177a639f9dcea353cb33444e.svg"
+  ],
+  "templates": [
+    "iconvault-preview.html",
+    "iconvault-preview.css"
+  ],
+  "file_name": "iconvault_bc0a1b91177a639f9dcea353cb33444e",
+  "glyphs": [
+    "casa",
+    "publicacion",
+    "ubicacion",
+    "cartera",
+    "no",
+    "si",
+    "megafono",
+    "busqueda"
+  ]
+}

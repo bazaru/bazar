@@ -1,0 +1,42 @@
+/*
+ * Created with iconvau.lt
+ */
+
+@font-face {
+  font-family: "iconvault";
+  src: url("iconvault_bc0a1b91177a639f9dcea353cb33444e.eot");
+  src: url("iconvault_bc0a1b91177a639f9dcea353cb33444e.eot?#iefix") format("embedded-opentype"),
+       url("iconvault_bc0a1b91177a639f9dcea353cb33444e.woff") format("woff"),
+       url("iconvault_bc0a1b91177a639f9dcea353cb33444e.ttf") format("truetype"),
+       url("iconvault_bc0a1b91177a639f9dcea353cb33444e.svg#iconvault") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-casa:before,
+.icon-publicacion:before,
+.icon-ubicacion:before,
+.icon-cartera:before,
+.icon-no:before,
+.icon-si:before,
+.icon-megafono:before,
+.icon-busqueda:before {
+  font-family: "iconvault";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+.icon-casa:before { content: "\f100"; }
+.icon-publicacion:before { content: "\f101"; }
+.icon-ubicacion:before { content: "\f102"; }
+.icon-cartera:before { content: "\f103"; }
+.icon-no:before { content: "\f104"; }
+.icon-si:before { content: "\f105"; }
+.icon-megafono:before { content: "\f106"; }
+.icon-busqueda:before { content: "\f107"; }
